@@ -8,7 +8,6 @@ Anti shake program for Arduino photoelectric encoder
 QQ：377287082
 Email：	377287082@qq.com
 	stevenzhang2016@yeah.net
-Blog：http://blog.sina.com.cn/s/blog_135e04d0a0102zmjl.html
 /*******************************************************/
 1.这个程序适用于Arduino 2560
 2.这个程序用于增量型光电编码器
@@ -16,5 +15,4 @@ Blog：http://blog.sina.com.cn/s/blog_135e04d0a0102zmjl.html
 QQ：377287082
 Email：	377287082@qq.com
 	stevenzhang2016@yeah.net
-Blog：http://blog.sina.com.cn/s/blog_135e04d0a0102zmjl.html
 /*******************************************************/
